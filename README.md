@@ -3,7 +3,7 @@
 This is second project in ABND course. The goal is to create an Score Keeper app which gives a user the ability to keep track of the score of two different teams playing a game of your choice. To build this project, i chose the bowling as a game to track scores from two players.
 
 Project overview:
-- Adding button code to your app
+- Adding button code to my app
 - Updating views
 - Properly scoping variables
 - Finding views by their ID
