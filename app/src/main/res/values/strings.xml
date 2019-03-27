@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BowlingScoreKeeper</string>
+
+    <string name="teamA">Team A </string>
+    <string name="zero">0</string>
+    <string name="one">+1 Pts</string>
+    <string name="two">+2 Pts</string>
+    <string name="three">+3 Pts</string>
+    <string name="four">+4 Pts</string>
+    <string name="five">+5 Pts</string>
+    <string name="six">+6 Pts</string>
+    <string name="seven">+7 Pts</string>
+    <string name="eight">+8 Pts</string>
+    <string name="nine">+9 Pts</string>
+    <string name="spare">Spare</string>
+    <string name="strike">Strike</string>
+    <string name="teamB">Team B </string>
+    <string name="reset">reset</string>
+
+
+</resources>
+
+
+
+
